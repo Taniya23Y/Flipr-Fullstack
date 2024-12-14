@@ -1,0 +1,22 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "server for flipr task",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Taniya23Y/Flipr-Fullstack.git"
+  },
+  "keywords": [
+    "mern"
+  ],
+  "author": "Taniya Yadav",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Taniya23Y/Flipr-Fullstack/issues"
+  },
+  "homepage": "https://github.com/Taniya23Y/Flipr-Fullstack#readme"
+}
